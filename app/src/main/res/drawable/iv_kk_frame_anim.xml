@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/kk1"  android:duration="90"/>
+    <item android:drawable="@drawable/kk2"  android:duration="90"/>
+    <item android:drawable="@drawable/kk3"  android:duration="90"/>
+    <item android:drawable="@drawable/kk4"  android:duration="90"/>
+    <item android:drawable="@drawable/kk5"  android:duration="90"/>
+    <item android:drawable="@drawable/kk6"  android:duration="90"/>
+    <item android:drawable="@drawable/kk7"  android:duration="90"/>
+    <item android:drawable="@drawable/kk8"  android:duration="90"/>
+    <item android:drawable="@drawable/kk9"  android:duration="90"/>
+    <item android:drawable="@drawable/kk10" android:duration="90" />
+    <item android:drawable="@drawable/kk11" android:duration="90" />
+    <item android:drawable="@drawable/kk12" android:duration="90" />
+    <item android:drawable="@drawable/kk13" android:duration="90" />
+</animation-list>
